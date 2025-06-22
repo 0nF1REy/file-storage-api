@@ -1,7 +1,0 @@
-|======================================================================|
-|./mvnw spring-boot:run (Inicia aplicação Spring Boot - Maven Wrapper) |
-|======================================================================|
-|curl -X POST -F "file=@oi.jpg" http://localhost:8080/api/files/upload |
-|curl -OJL http://localhost:8080/api/files/download/oi.jpg -v          |
-|curl http://localhost:8080/api/files/list                             |
-|======================================================================|

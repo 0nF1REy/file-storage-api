@@ -42,13 +42,13 @@ Os seguintes softwares precisam estar instalados em seu sistema antes de você p
 ## Pré-requisitos
 
 <a href="https://git-scm.com/" target="_blank">
-  <img src="./readme_assets/git-logo.png" width="200" alt="Git Logo" />
+  <img src="./readme_images/git-logo.png" width="200" alt="Git Logo" />
 </a>
 <a href="https://maven.apache.org/" target="_blank">
-  <img src="./readme_assets/apache-maven-logo.png" width="200" alt="Apache Maven Logo" />
+  <img src="./readme_images/apache-maven-logo.png" width="200" alt="Apache Maven Logo" />
 </a>
 <a href="https://www.oracle.com/java/" target="_blank">
-  <img src="./readme_assets/java-jdk-logo.png" width="200" alt="Java JDK Logo" />
+  <img src="./readme_images/java-jdk-logo.png" width="200" alt="Java JDK Logo" />
 </a>
 
 </div>
@@ -125,7 +125,7 @@ Se o diretório `uploads` não existir na raiz do projeto, ele será criado auto
   <tr>
     <td align="center">
       <a href="https://github.com/0nF1REy" target="_blank">
-        <img src="./readme_assets/alan-ryan.jpg" height="160px" style="border-radius: 50%; border: 3px solid #0077B5;" alt="Foto de Alan Ryan"/><br>
+        <img src="./readme_images/alan-ryan.jpg" height="160px" style="border-radius: 50%; border: 3px solid #0077B5;" alt="Foto de Alan Ryan"/><br>
         <b>Alan Ryan</b>
       </a>
       <p>

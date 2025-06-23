@@ -1,14 +1,22 @@
-# 📁 File Storage API
+<p align="center">
+  <a href="https://github.com/0nF1REy/file-storage-api" target="_blank">
+    <img src="./readme_assets/file-storage-api-logo.png" width="200" alt="File Storage API Logo" />
+  </a>
+</p>
 
-![Status](https://img.shields.io/badge/status-Conclu%C3%ADdo-brightgreen)
-![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)
-![Build](https://img.shields.io/badge/build-Maven-red.svg)
-![Platform](https://img.shields.io/badge/platform-API--REST-lightgrey.svg)
-![Spring Boot](https://img.shields.io/badge/framework-Spring%20Boot-6db33f.svg)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+<div align="center">
 
-![Maintained](https://img.shields.io/maintenance/yes/2025?style=for-the-badge)
+  ![Maintained](https://img.shields.io/maintenance/yes/2025?style=for-the-badge)
+  ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+
+  ![Status](https://img.shields.io/badge/status-Conclu%C3%ADdo-brightgreen)
+  ![Java](https://img.shields.io/badge/Java-21%2B-blue.svg)
+  ![Build](https://img.shields.io/badge/build-Maven-red.svg)
+  ![Platform](https://img.shields.io/badge/platform-API--REST-lightgrey.svg)
+  ![Spring Boot](https://img.shields.io/badge/framework-Spring%20Boot-6db33f.svg)
+  ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+
+</div>
 
 ## 📖 Descrição
 

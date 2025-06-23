@@ -53,9 +53,9 @@ Os seguintes softwares precisam estar instalados em seu sistema antes de você p
 
 </div>
 
-*   **Git:** Para controle de versão e clonar o repositório. [https://git-scm.com/](https://git-scm.com/)
-*   **Maven:** Para construir e gerenciar dependências do projeto. [https://maven.apache.org/](https://maven.apache.org/)
-*   **Java JDK:** Ambiente para executar a aplicação, versão 17 ou superior. [https://www.oracle.com/java/](https://www.oracle.com/java/)
+*   **Git:** Para controle de versão e clonar o repositório.
+*   **Maven:** Para construir e gerenciar dependências do projeto.
+*   **Java JDK:** Ambiente para executar a aplicação, versão 21 ou superior.
 
 ---
 

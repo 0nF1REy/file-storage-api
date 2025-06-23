@@ -42,7 +42,7 @@ Os seguintes softwares precisam estar instalados em seu sistema antes de você p
 ## Pré-requisitos
 
 <a href="https://git-scm.com/" target="_blank">
-  <img src="./readme_images/git-logo.png" width="200" alt="Git Logo" />
+  <img src="./readme_images/git-logo-2.png" width="200" alt="Git Logo" />
 </a>
 <a href="https://maven.apache.org/" target="_blank">
   <img src="./readme_images/apache-maven-logo.png" width="200" alt="Apache Maven Logo" />

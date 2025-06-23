@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/0nF1REy/file-storage-api" target="_blank">
-    <img src="./readme_assets/file-storage-api-logo.png" width="200" alt="File Storage API Logo" />
+    <img src="./readme_images/file-storage-api-logo.png" width="200" alt="File Storage API Logo" />
   </a>
 </p>
 
@@ -119,17 +119,40 @@ Se o diretório `uploads` não existir na raiz do projeto, ele será criado auto
 
 <div align="center">
 
-## Autor 🧑🛡️ 
-  <table>
+## 👤 Sobre o Desenvolvedor
+                       
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/0nF1REy" target="_blank">
-        <img src="./readme_assets/alan-ryan.jpg" height="160px;" alt="Foto de Alan Ryan"/><br>
-          <b>Alan Ryan</b>  
+        <img src="./readme_assets/alan-ryan.jpg" height="160px" style="border-radius: 50%; border: 3px solid #0077B5;" alt="Foto de Alan Ryan"/><br>
+        <b>Alan Ryan</b>
       </a>
+      <p>
+        ☕ Peopleware | Tech Enthusiast | Code Slinger ☕<br>
+        Apaixonado por código limpo, arquitetura escalável e experiências digitais envolventes.
+      </p>
+      <p style="font-weight: bold; color: #0077B5;">
+        Conecte-se comigo:
+      </p>
+      <p>
+        <a href="https://github.com/0nF1REy" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-0nF1REy-181717?style=flat&logo=github" alt="GitHub">
+        </a>
+        <a href="https://gitlab.com/alanryan619" target="_blank">
+          <img src="https://img.shields.io/badge/GitLab-@0nF1REy-FCA121?style=flat&logo=gitlab" alt="GitLab">
+        </a>
+        <a href="https://www.linkedin.com/in/alan-ryan-b115ba228" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Alan_Ryan-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
+        </a>
+        <a href="mailto:alanryan619@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-alanryan619@gmail.com-D14836?style=flat&logo=gmail" alt="Email">
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+
 </div>
 
 ---
